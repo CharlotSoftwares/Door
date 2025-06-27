@@ -1,2 +1,2 @@
 # Door
-Another operating system. 
+Another operating system. Main project.
